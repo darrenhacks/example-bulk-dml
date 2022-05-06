@@ -1,3 +1,6 @@
 java/.gradle/
 java/build/
 java/.idea/
+
+go/example-bulk-dml
+go/.idea/
